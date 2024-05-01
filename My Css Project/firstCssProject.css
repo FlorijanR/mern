@@ -1,0 +1,24 @@
+h1{
+    /* color:red; */
+    /* color:rgb(0,0,0); */
+    font-family: "Arial";
+    text-align: center;
+    text-decoration: overline;
+}
+
+p{
+    /* color:#FF8C00; */
+    font-family: "Tahoma";
+    font-style: italic;
+    font-size: 1.7em;
+    text-decoration: underline;
+    line-height: 2;
+}
+
+span{
+    font-weight: bold;
+}
+
+body{
+    background-color: yellow;
+}
